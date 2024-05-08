@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606613904977",
+    "project_id": "pubpro-9f9c2",
+    "storage_bucket": "pubpro-9f9c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606613904977:android:49bd920e814a2dcd31e270",
+        "android_client_info": {
+          "package_name": "com.example.perspro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUFMc6rP7FgKRYj1f3deGPoRXQ8BWTLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
